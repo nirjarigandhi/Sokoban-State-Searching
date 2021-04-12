@@ -1,0 +1,5 @@
+{ "test_name": "test (2) for two box heuristic",
+	"map": "searching/two_switches_2",
+	"goal" : "switches",
+	"solution": 50 
+}

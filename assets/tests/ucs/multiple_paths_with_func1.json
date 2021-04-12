@@ -1,0 +1,8 @@
+{ "test_name": "ucs/astar on map with multiple paths (1)",
+	"map": "searching/multipath",
+	"goal" : "switches",
+	"solution": ["south", "south", "west", "west",
+							 "west", "west", "west", "west",
+							 "west", "west", "west", "north",
+							 "north"]
+}

@@ -1,0 +1,8 @@
+{ "test_name": "bfs test on small box only map",
+	"map": "searching/basic_b",
+	"goal" : "switches",
+	"solution": ["east", "east", "east", "east",
+							 "west", "south", "south", "south",
+							 "west", "west", "south", "west",
+							 "north"]
+}

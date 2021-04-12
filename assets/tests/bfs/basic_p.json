@@ -1,0 +1,9 @@
+{ "test_name": "bfs test on small point only map",
+	"map": "searching/basic_p",
+	"goal" : "points",
+	"solution": ["east", "east", "north", "north",
+							 "east", "south", "south", "west",
+							 "west", "west", "south", "west",
+							 "west", "east", "east", "south",
+							 "south", "east", "east", "north"]
+}

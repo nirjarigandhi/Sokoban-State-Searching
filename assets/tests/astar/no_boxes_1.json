@@ -1,0 +1,5 @@
+{ "test_name": "test (1) for no box (point only) heuristic",
+	"map": "searching/no_boxes_1",
+	"goal" : "no_boxes",
+	"solution": 50 
+}

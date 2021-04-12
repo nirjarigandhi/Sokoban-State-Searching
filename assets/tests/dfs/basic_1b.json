@@ -1,0 +1,5 @@
+{ "test_name": "dfs test on small box only map",
+	"map": "searching/basic_1b",
+	"goal" : "switches",
+	"solution": ["west", "west", "north", "north", "east", "south"]
+}

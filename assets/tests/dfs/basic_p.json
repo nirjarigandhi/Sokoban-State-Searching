@@ -1,0 +1,12 @@
+{ "test_name": "dfs test on small point only map",
+	"map": "searching/basic_p",
+	"goal" : "points",
+	"solution": ["west", "west", "south", "east",
+							 "east", "south", "south", "east",
+							 "east", "east", "north", "west",
+							 "south", "west", "west", "north",
+							 "north", "west", "west", "north",
+							 "east", "east", "east", "east",
+							 "east", "north", "west", "north",
+							 "east"]
+}
